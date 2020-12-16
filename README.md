@@ -1,4 +1,4 @@
-# 03-drag-table
+# vue-drag-table
 
 ## Project setup
 ```
